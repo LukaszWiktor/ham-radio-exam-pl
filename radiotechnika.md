@@ -744,7 +744,7 @@ Metoda kohererowa: Może odnosić się do różnych technik modulacji, ale nie j
 
 ---
 
-26.Która z wymienionych modulacji ma najwęższe pasmo?
+26. Która z wymienionych modulacji ma najwęższe pasmo?
 
     a. SSB
     
@@ -772,4 +772,35 @@ SSB (modulacja z pojedynczą wstęgą boczną) ma szersze pasmo niż CW, poniewa
 
 PSK31 to rodzaj modulacji cyfrowej wykorzystującej falę przesunięcia fazowego. Zajmuje ona większe pasmo niż CW, zwykle rzędu 31 Hz.
 Więc najwęższe pasmo spośród wymienionych ma właśnie modulacja CW, co jest jej dużą zaletą w warunkach zakłóceń i zatłoczenia pasm.
+</details>
+
+---
+
+27. Jeśli dla sygnału AM amplituda sygnału modulującego równa jest amplitudzie fali nośnej, to
+mówimy, że:
+
+    a. współczynnik głębokości modulacji wynosi 100%
+    
+    b. sygnał jest przesterowany
+    
+    c. jest to modulacja z wytłumioną falą nośną
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+**a. współczynnik głębokości modulacji wynosi 100%**
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+   
+
+Współczynnik głębokości modulacji wynosi 100% wtedy, gdy amplituda sygnału modulującego jest równa amplitudzie fali nośnej w modulacji amplitudy (AM). 
+
+Współczynnik głębokości modulacji określa stosunek amplitudy sygnału modulującego do amplitudy fali nośnej. Gdy amplituda sygnału modulującego jest równa amplitudzie fali nośnej, oznacza to, że współczynnik głębokości jest równy 1, co odpowiada 100% modulacji.
+
+Jeśli amplituda sygnału modulującego przekracza amplitudę fali nośnej, sygnał jest przesterowany.. 
+
+Modulacja z wytłumioną falą nośną, czyli opcja c, występuje w przypadku, gdy moc fali nośnej jest zredukowana do minimum.
+
 </details>
