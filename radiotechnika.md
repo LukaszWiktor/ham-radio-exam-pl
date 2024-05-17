@@ -254,7 +254,7 @@ c. emiter a masę
 <details> 
     <summary>Wyjaśnienie</summary><br>
 
-W układzie wspólnego kolektora, znanego również jako wtórnik emiterowy lub wtórnik napięciowy, punkt wspólny dla wszystkich elektrod tranzystora jest kolektor. 
+W układzie wspólnego kolektora, znanego również jako wtórnik emiterowy lub wtórnik napięciowy, punktem wspólnym dla wszystkich elektrod tranzystora jest kolektor. 
 Oznacza to, że napięcie kolektora jest stałe i nie ulega wzmocnieniu.
 
 Sygnał wejściowy jest podawany do bazy tranzystora, natomiast prąd wyjściowy płynie z emitera do masy. 
@@ -265,6 +265,62 @@ Wzmacniacz w układzie wspólnego kolektora charakteryzuje się niskim wzmocnien
 ale zapewnia dużą impedancję wejściową i niską impedancję wyjściową, co czyni go idealnym do zastosowań buforowych i dopasowujących impedancję.
 
 ![image](https://github.com/LukaszWiktor/ham-radio-exam-pl/assets/2964543/bb3ea909-f905-45ca-8c88-92d45b2561ac)
+</details>
+
+---
+
+11. Od czego zależna jest rezystancja przewodu?
+
+    a. jego materiału, długości, przekroju i temperatury.
+    
+    b. jego materiału, długości, przekroju i użytej izolacji.
+    
+    c. jego materiału, długości, przekroju i napięcia pracy.
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+a. jego materiału, długości, przekroju i temperatury.
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Wyjaśnienie:
+
+Rezystancja przewodu zależy od kilku czynników:
+
+1. Materiał, z którego wykonany jest przewód
+
+  Każdy materiał ma swoją charakterystyczną rezystywność właściwą (oporność właściwą). Metale, takie jak miedź, aluminium czy srebro, mają niską rezystywność, co oznacza, że przewodzą dobrze prąd elektryczny. 
+  Materiały izolacyjne, takie jak plastik czy ceramika, mają bardzo wysoką rezystywność i są złymi przewodnikami prądu.
+
+2.  Długość przewodu
+
+  Im dłuższy jest przewód wykonany z tego samego materiału, tym większa jest jego rezystancja. Rezystancja jest wprost proporcjonalna do długości przewodu.
+
+3. Pola przekroju poprzecznego przewodu
+
+  Rezystancja jest odwrotnie proporcjonalna do pola przekroju poprzecznego przewodu. Im większy jest przekrój, tym mniejsza rezystancja dla danego materiału i długości.
+
+4. Temperatura:
+
+  Rezystancja większości metali wzrasta wraz ze wzrostem temperatury. Dzieje się tak, ponieważ drgania termiczne atomów utrudniają przepływ elektronów.
+
+
+Wzór na rezystancję:
+
+Rezystancję przewodu można obliczyć za pomocą wzoru:
+
+R = ρ * (l / S)
+gdzie:
+
+R - rezystancja (w omach, Ω)
+ρ - rezystywność materiału (w omometrach, Ωm)
+l - długość przewodu (w metrach, m)
+S - przekrój poprzeczny przewodu (w metrach kwadratowych, m²)
+
+Z tego wzoru widać, że rezystancja przewodu jest wprost proporcjonalna do jego długości i rezystywności materiału, a odwrotnie proporcjonalna do jego przekroju poprzecznego.
 </details>
 
 ---
