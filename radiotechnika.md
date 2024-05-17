@@ -664,3 +664,30 @@ Nazwa A3E jest skrótowcem, którego:
 Emisja A3E stosowana jest w lotniczym paśmie VHF.
 </details>
 
+---
+
+24. Modulacja PSK polega na:
+    
+    a. dyskretnej zmianie fazy sygnału
+    
+    b. modulacji mocy wyjściowej
+    
+    c. nadawaniu obu wstęg bocznych na raz
+
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+a. dyskretnej zmianie fazy sygnału
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Modulacja PSK (Phase Shift Keying) polega na dyskretnej zmianie fazy sygnału.
+
+W modulacji PSK dane cyfrowe są kodowane jako zmiany fazy fali nośnej.
+Dla każdej kombinacji bitów jest przypisana określona zmiana fazy sygnału nośnego. 
+W ten sposób informacja jest przenoszona w postaci zmian fazy, a nie amplitudy lub częstotliwości sygnału.
+</details>
+
