@@ -286,8 +286,6 @@ a. jego materiału, długości, przekroju i temperatury.
 <details> 
     <summary>Wyjaśnienie</summary><br>
 
-Wyjaśnienie:
-
 Rezystancja przewodu zależy od kilku czynników:
 
 1. Materiał, z którego wykonany jest przewód
@@ -321,6 +319,33 @@ l - długość przewodu (w metrach, m)
 S - przekrój poprzeczny przewodu (w metrach kwadratowych, m²)
 
 Z tego wzoru widać, że rezystancja przewodu jest wprost proporcjonalna do jego długości i rezystywności materiału, a odwrotnie proporcjonalna do jego przekroju poprzecznego.
+</details>
+
+---
+
+12. Który przewód o tej samej długości i przekroju będzie miał największą rezystancję?
+
+    a. wykonany z aluminium
+    
+    b. wykonany z żelaza
+    
+    c. wykonany z miedzi
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+b. wykonany z żelaza
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+
+Aluminium ma opór właściwy około 2,69 × 10^-8 Ω·m.
+
+Żelazo ma opór właściwy około 7,95 × 10^-8 Ω·m.
+
+Miedź ma opór właściwy około 1,68 × 10^-8 Ω·m.
 </details>
 
 ---
