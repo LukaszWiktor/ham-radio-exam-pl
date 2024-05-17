@@ -826,3 +826,34 @@ Modulacja z wytłumioną falą nośną, czyli opcja c, występuje w przypadku, g
 PSK31 (Phase Shift Keying 31) jest cyfrową modulacją używaną w łączności radiowej. Wykorzystuje bardzo wąski pasmo częstotliwości, wynoszące około 31,25 Hz.
 
 </details>
+
+---
+
+29. Jakie napięcie występuje na rezystorze o wartości 50 Ω przy dostarczeniu do niego mocy 200
+W?
+
+    a. 100 V
+    
+    b. 10000 V
+    
+    c. 4 V
+
+---
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+**a. 100 V**
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+P = U * I
+
+U = R * I => I = U / R
+
+P = U * U / R => U = sqrt(P * R)
+
+U = sqrt(200 * 50) = sqrt(10000) = 100 V
+
+</details>
