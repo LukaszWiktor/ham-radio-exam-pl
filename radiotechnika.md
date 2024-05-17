@@ -8,7 +8,6 @@
 
 <details>
   <summary>Poprawna odpowiedź</summary> 
-  
   a. szkło
 </details>
 
@@ -36,7 +35,6 @@
 
 <details>
   <summary>Poprawna odpowiedź</summary> 
-  
   b. szeregowym
 </details>
 
@@ -66,6 +64,36 @@ wartości 2A. Jaki będzie spadek napięcia na kondensatorze?
   <summary>Wyjaśnienie</summary>
 
     U = R * I = 10 * 2 = 20    
+</details>
+
+---
+
+4. Przez trzy równoległe rezystory 1 Ω, 2 Ω i 4 Ω płyną prądy odpowiednio 4 A, 2 A i 1A.
+Całkowite natężenie prądu płynącego w obwodzie to:
+
+    a. 4 A
+    
+    b. 1 A
+    
+    c. 7 A
+
+<details>
+  <summary>Poprawna odpowiedź</summary> 
+    c. 7 A
+</details>
+
+<details> 
+  <summary>Wyjaśnienie</summary>
+
+    Aby obliczyć całkowite natężenie prądu w obwodzie równoległym, należy zsumować natężenia prądu płynące przez każdy z równoległych rezystorów.
+    
+    W tym przypadku:
+    
+    Prąd przez pierwszy rezystor (1 Ω) wynosi 4 A.
+    Prąd przez drugi rezystor (2 Ω) wynosi 2 A.
+    Prąd przez trzeci rezystor (4 Ω) wynosi 1 A.
+    
+    Całkowity prąd = 4 A + 2 A + 1 A = 7 A
 </details>
 
 ---
