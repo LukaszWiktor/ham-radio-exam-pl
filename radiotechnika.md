@@ -523,3 +523,31 @@ Funkcja "Noise Blanker" działa poprzez dynamiczne obniżanie wzmocnienia odbior
 
 ---
 
+19. Modulacja CW nazywana jest modulacją wąskopasmową, czy zatem jest możliwe dowolne
+zawężanie filtra wejściowego odbiornika celem odcięcia bocznych sygnałów niepożądanych?
+
+    a. można zawężać dowolnie
+    
+    b. nie można, poniżej pewnej wartości szerokości filtra sygnał staje się nieczytelny
+    
+    c. można zawężać ale tylko o parzyste liczby herców
+
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+b. nie można, poniżej pewnej wartości szerokości filtra sygnał staje się nieczytelny
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+    
+Modulacja CW jest rzeczywiście typem modulacji wąskopasmowej, co oznacza, że zajmuje ona stosunkowo niewielką szerokość pasma w widmie częstotliwości.
+
+Chociaż zawężenie filtra wejściowego odbiornika może pomóc w usunięciu niechcianych sygnałów bocznych i poprawie stosunku sygnału do szumu, nie można go zawężać dowolnie. Dzieje się tak, ponieważ sygnał CW składa się nie tylko z częstotliwości nośnej, ale również z górnych i dolnych pasm bocznych. Zawężenie filtra poniżej pewnej wartości spowoduje ucięcie części pasm bocznych, co z kolei zniekształci sygnał i utrudni jego odbiór.
+
+Minimalna dopuszczalna szerokość filtra zależy od kilku czynników, takich jak szybkość nadawania i tolerancja na zniekształcenia. Ogólnie rzecz biorąc, im szybsza jest szybkość nadawania, tym szerszy filtr jest potrzebny.
+
+Zatem, podczas gdy zawężanie filtra może być korzystne w przypadku modulacji CW, należy to robić ostrożnie, aby nie uciąć zbyt dużej części sygnału i nie utrudnić jego odbioru.
+</details>
+
