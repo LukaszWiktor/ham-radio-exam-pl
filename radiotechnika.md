@@ -589,9 +589,10 @@ stuprocentową sprawność układu ładowania, jakie jest napięcie na akumulato
 
 <details>
   <summary>Poprawna odpowiedź</summary>
-</details>
 
 b. 12 V
+</details>
+
 <details> 
     <summary>Wyjaśnienie</summary><br>
 
@@ -600,5 +601,32 @@ P = U * I
 czyli
 
 U = P / I = 24 W / 2 A = 12 V
+</details>
+
+---
+
+22. Rezystor ma wartość 200 Ω. Płynie przez niego prąd 300 mA. Jaka moc wydziela się na
+rezystorze?
+
+    a. 18 W
+    
+    b. 1800 W
+    
+    c. 1,8 W
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+    a. 18 W
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+P = U * I 
+
+U = R * I
+
+P = R * I * I = 200 Ω * 0.3 A * 0.3 A = 18 W
 </details>
 
