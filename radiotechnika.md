@@ -163,11 +163,11 @@ Może to nawet doprowadzić do uszkodzenia lub zniszczenia źródeł.
 
 7. Jak nazywa się zdolność do gromadzenia energii w polu elektrycznym?
 
-a. opór
-
-b. pojemność
-
-c. kapacytancja
+    a. opór
+    
+    b. pojemność
+    
+    c. kapacytancja
 
 <details>
   <summary>Poprawna odpowiedź</summary>
@@ -186,5 +186,28 @@ c. kapacytancja
 
 ---
 
+8. Współczynnikiem skrócenia przewodu nazywamy:
 
+    a. stosunek prędkości rozchodzenia się fali elektromagnetycznej w przewodzie do prędkości światła w próżni
+    
+    b. stosunek prędkości rozchodzenia się fali elektromagnetycznej w przewodzie do prędkości dźwięku w powietrzu
+    
+    c. parametr wtyczki, określający o ile zostanie skrócony kabel po jej montażu
 
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    a. stosunek prędkości rozchodzenia się fali elektromagnetycznej w przewodzie do prędkości światła w próżni
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary>  
+Współczynnik skrócenia przewodu jest definiowany jako stosunek prędkości rozchodzenia się fali elektromagnetycznej w przewodzie do prędkości światła w próżni.
+
+Prędkość rozchodzenia się fali elektromagnetycznej w przewodzie jest mniejsza niż prędkość światła w próżni ze względu na wpływ materiału dielektrycznego i konstrukcji przewodu. 
+Współczynnik skrócenia przewodu wyraża, o ile ta prędkość jest mniejsza w stosunku do prędkości światła w próżni.
+
+Jego wartość jest zawsze mniejsza od 1 i zależy od właściwości dielektryka oraz geometrii przewodu. 
+Im wyższy współczynnik skrócenia, tym bliższy prędkości światła jest rozchodzenie się fali w przewodzie.
+</details>
+
+---
