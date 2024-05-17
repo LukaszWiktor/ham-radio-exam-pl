@@ -97,3 +97,45 @@ Całkowite natężenie prądu płynącego w obwodzie to:
 </details>
 
 ---
+
+5. O ile spadnie napięcie 12 V akumulatora o rezystancji wewnętrznej 0,1 Ω przy poborze 10 A
+prądu?
+    
+    a. 1 V
+    
+    b. 10 V
+    
+    c. 0,1 V
+
+<details>
+  <summary>Poprawna odpowiedź</summary> 
+   a. 1 V
+</details>
+
+<details> 
+  <summary>Wyjaśnienie</summary>
+
+    Aby obliczyć spadek napięcia na akumulatorze, należy zastosować prawo Ohma:
+    
+    U = I * R
+    
+    Gdzie:
+    
+    U - spadek napięcia (w woltach)
+    
+    I - natężenie prądu (w amperach)
+    
+    R - rezystancja (w omach)
+    
+    Dane:
+    
+    I = 10 A (prąd pobierany)
+    
+    R = 0,1 Ω (rezystancja wewnętrzna akumulatora)
+    
+    Podstawiając wartości do wzoru, otrzymamy:
+    
+    U = 10 A * 0,1 Ω = 1 V
+</details>
+
+---
