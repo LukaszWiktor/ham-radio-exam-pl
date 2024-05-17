@@ -471,3 +471,55 @@ U₀ = Usk * √2 = 230 V * 1.4 = 325
 </details>
 
 ---
+
+17. Jaka jest zależność fazowa między przepływającym prądem a napięciem w szeregowym
+obwodzie rezonansowym w rezonansie?
+
+    a. napięcie wyprzedza prąd o 90 stopni
+    
+    b. prąd wyprzedza napięcie o 90 stopni
+    
+    c. napięcie i prąd są zgodne w fazie
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+c. napięcie i prąd są zgodne w fazie
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+    
+W rezonansie częstotliwość prądu jest równa częstotliwości rezonansowej obwodu. Przy tej częstotliwości reaktancja indukcyjna (XL) i reaktancja pojemnościowa (XC) są sobie równe i wzajemnie się znoszą, pozostawiając jedynie rezystancję (R) jako istotny czynnik wpływający na fazę.
+
+Ponieważ rezystancja nie wprowadza przesunięcia fazowego, napięcie i prąd w obwodzie rezonansowym są w fazie.
+
+Możemy to zobrazować za pomocą wykresu fazowego, gdzie oś x reprezentuje czas, a oś y - amplitudę napięcia i prądu. W punkcie rezonansu wykresy napięcia i prądu pokrywają się, wskazując na ich zgodność w fazie.
+
+Należy pamiętać, że powyższa odpowiedź dotyczy idealnego obwodu rezonansowego bez strat. W rzeczywistych obwodach zawsze występują pewne straty, które mogą powodować niewielkie przesunięcie fazowe między napięciem a prądem.
+</details>
+
+---
+
+18. Działanie funkcji "Noise Blanker" polega na:
+
+    a. zwiększeniu pasma odbiornika
+    
+    b. zmniejszeniu wzmocnienia odbiornika podczas okresowych impulsów zakłóceń
+    
+    c. przekierowaniu zakłóceń do kondensatora filtrującego
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+    b. zmniejszeniu wzmocnienia odbiornika podczas okresowych impulsów zakłóceń
+    
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Funkcja "Noise Blanker" działa poprzez dynamiczne obniżanie wzmocnienia odbiornika w momentach występowania silnych impulsów zakłóceń, takich jak krótkofalowe przekaźniki lub sygnały zapłonowe z silników spalinowych. Ma to na celu tłumienie tych zakłóceń i poprawę jakości odbieranego sygnału użytecznego.
+</details>
+
+---
+
