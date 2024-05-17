@@ -695,11 +695,11 @@ W ten sposób informacja jest przenoszona w postaci zmian fazy, a nie amplitudy 
 
 25. Jakie są trzy metody uzyskiwania modulacji jednowstęgowej?
 
-a. detekcja obwiedni, przez zmianę częstotliwości fali nośnej, metoda sumacyjna
-
-b. metoda filtrowa, metoda fazowa, metoda Weavera 
-
-c. metoda Marconiego, metoda Popowa, metoda kohererowa
+    a. detekcja obwiedni, przez zmianę częstotliwości fali nośnej, metoda sumacyjna
+    
+    b. metoda filtrowa, metoda fazowa, metoda Weavera 
+    
+    c. metoda Marconiego, metoda Popowa, metoda kohererowa
 
 <details>
   <summary>Poprawna odpowiedź</summary>
@@ -740,4 +740,36 @@ Metoda Marconiego: Jest to historyczna metoda modulacji AM, a nie metoda SSB.
 Metoda Popowa: Nie jest powszechnie stosowaną metodą modulacji SSB.
 
 Metoda kohererowa: Może odnosić się do różnych technik modulacji, ale nie jest specyficzna dla modulacji SSB.
+</details>
+
+---
+
+26.Która z wymienionych modulacji ma najwęższe pasmo?
+
+    a. SSB
+    
+    b. PSK31
+    
+    c. CW
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+**c. CW**
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+    
+Modulacja CW (ciągła fala nośna) ma najwęższe pasmo ze wszystkich wymienionych rodzajów modulacji.
+
+CW to najprostsza forma transmisji danych, w której brak sygnału reprezentuje znak "0", a obecność sygnału nośnego reprezentuje znak "1". Dlatego nie jest wymagana żadna dodatkowa modulacja amplitudy, częstotliwości ani fazy nośnej.
+Pasmo CW jest bardzo wąskie, ograniczone jedynie do szerokości wynikającej z nieidealnego kształtu przebiegu prostokątnego przełączania nadajnika i stabilności częstotliwości generatora. W praktyce może to oznaczać pasmo rzędu kilkudziesięciu hercÃłw.
+
+Dla porównania:
+
+SSB (modulacja z pojedynczą wstęgą boczną) ma szersze pasmo niż CW, ponieważ modulowana jest amplituda i częstotliwość nośnej.
+
+PSK31 to rodzaj modulacji cyfrowej wykorzystującej falę przesunięcia fazowego. Zajmuje ona większe pasmo niż CW, zwykle rzędu 31 Hz.
+Więc najwęższe pasmo spośród wymienionych ma właśnie modulacja CW, co jest jej dużą zaletą w warunkach zakłóceń i zatłoczenia pasm.
 </details>
