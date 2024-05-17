@@ -857,3 +857,35 @@ P = U * U / R => U = sqrt(P * R)
 U = sqrt(200 * 50) = sqrt(10000) = 100 V
 
 </details>
+
+---
+
+30. Siła elektromotoryczna ogniwa wynosi 1,5 V. Rezystancja wewnętrzna ogniwa wynosi 0,1 Ω.
+Z ogniwa pobieramy prąd 1 A. Jakie będzie napięcie na zaciskach ogniwa?
+
+    a. 1,5 V
+    
+    b. 1 V
+    
+    c. 1,4 V
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+**c. 1,4 V**
+
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Spadek napięcia na rezystancji wewnętrznej ogniwa wynosi:
+U = R * I = 0,1 Ω * 1 A = 0,1 V
+
+Napięcie na zaciskach ogniwa to różnica pomiędzy siłą elektromotoryczną ogniwa a spadkiem napięcia na rezystancji wewnętrznej:
+
+U = ε - I * r = 1,5 V - 1 A * 0,1 Ω = 1,4 V
+</details>
+
+---
+
