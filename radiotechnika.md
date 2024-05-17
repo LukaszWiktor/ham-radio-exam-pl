@@ -12,7 +12,7 @@
 </details>
 
 <details> 
-  <summary>Wyjaśnienie</summary>
+  <summary>Wyjaśnienie</summary><br>
   
   Szkło jest materiałem dielektrycznym, co oznacza, że ​​bardzo słabo przewodzi prąd elektryczny. Ma ono niską koncentrację swobodnych ładunków elektrycznych, które mogą poruszać się pod wpływem pola elektrycznego.
   
@@ -39,7 +39,7 @@
 </details>
 
 <details> 
-  <summary>Wyjaśnienie</summary>
+  <summary>Wyjaśnienie</summary><br>
 
   W połączeniu szeregowym prąd przepływa przez wszystkie elementy jeden po drugim. Oznacza to, że natężenie prądu jest takie samo dla każdego elementu w obwodzie.
 </details>
@@ -61,7 +61,7 @@ wartości 2A. Jaki będzie spadek napięcia na kondensatorze?
 </details>
 
 <details> 
-  <summary>Wyjaśnienie</summary>
+  <summary>Wyjaśnienie</summary><br>
 
     U = R * I = 10 * 2 = 20    
 </details>
@@ -83,7 +83,8 @@ Całkowite natężenie prądu płynącego w obwodzie to:
 </details>
 
 <details> 
-  <summary>Wyjaśnienie</summary>
+  <summary>Wyjaśnienie</summary><br>
+
 Aby obliczyć całkowite natężenie prądu w obwodzie równoległym, należy zsumować natężenia prądu płynące przez każdy z równoległych rezystorów.
 
 W tym przypadku:
@@ -112,7 +113,8 @@ prądu?
 </details>
 
 <details> 
-  <summary>Wyjaśnienie</summary>
+  <summary>Wyjaśnienie</summary><br>
+
 Aby obliczyć spadek napięcia na akumulatorze, należy zastosować prawo Ohma:
 
 U = I * R
@@ -152,7 +154,8 @@ c. zadbać by ich napięcia były jednakowe
 </details>
 
 <details> 
-    <summary>Wyjaśnienie</summary>
+    <summary>Wyjaśnienie</summary><br>
+    
 Podczas równoległego łączenia źródeł napięcia kluczowe jest, aby napięcia wszystkich źródeł były identyczne. 
 Dzieje się tak, ponieważ w układzie równoległym zaciski dodatnie wszystkich źródeł łączy się ze sobą, a tak samo zaciski ujemne. 
 Gdyby napięcia źródeł różniły się, w obwodzie powstałaby różnica potencjałów, prowadząca do przepływu prądu wyrównującego i marnowania energii.
@@ -175,7 +178,7 @@ Może to nawet doprowadzić do uszkodzenia lub zniszczenia źródeł.
 </details>
 
 <details> 
-    <summary>Wyjaśnienie</summary>
+    <summary>Wyjaśnienie</summary><br>
 
 Zdolność do gromadzenia energii w polu elektrycznym nazywa się <a href="https://pl.wikipedia.org/wiki/Pojemno%C5%9B%C4%87_elektryczna">pojemnością elektryczną</a>, po angielsku capacitance.
 
@@ -198,7 +201,7 @@ Polski termin <a href="https://pl.wikipedia.org/wiki/Kapacytancja">kapacytancja<
 </details>
 
 <details> 
-    <summary>Wyjaśnienie</summary>
+    <summary>Wyjaśnienie</summary><br>
 Współczynnik skrócenia przewodu jest definiowany jako stosunek prędkości rozchodzenia się fali elektromagnetycznej w przewodzie do prędkości światła w próżni.
 
 Prędkość rozchodzenia się fali elektromagnetycznej w przewodzie jest mniejsza niż prędkość światła w próżni ze względu na wpływ materiału dielektrycznego i konstrukcji przewodu. 
@@ -224,12 +227,44 @@ b. prąd przemienny
 </details>
 
 <details> 
-    <summary>Wyjaśnienie</summary>
+    <summary>Wyjaśnienie</summary><br>
 Prąd przemienny to rodzaj prądu elektrycznego, którego natężenie i kierunek przepływu zmieniają się cyklicznie w regularnych odstępach czasu.
 
 W przeciwieństwie do prądu stałego, gdzie elektroeny płyną w jednym, niezmiennym kierunku, w prądzie przemiennym kierunek przepływu ładunków elektrycznych cyklicznie się odwraca.
 
 Prąd przemienny jest powszechnie wykorzystywany w sieciach przesyłowych i dystrybucji energii elektrycznej oraz w wielu urządzeniach elektrycznych i elektronicznych, takich jak silniki elektryczne, transformatory, generatory itp.
+</details>
+
+---
+
+10. We wzmacniaczu tranzystorowym w układzie wspólnego kolektora obciążenie jest dołączane między:
+
+a. kolektor a zasilanie
+
+b. bazę a kolektor
+
+c. emiter a masę
+
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+c. emiter a masę
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+W układzie wspólnego kolektora, znanego również jako wtórnik emiterowy lub wtórnik napięciowy, punkt wspólny dla wszystkich elektrod tranzystora jest kolektor. 
+Oznacza to, że napięcie kolektora jest stałe i nie ulega wzmocnieniu.
+
+Sygnał wejściowy jest podawany do bazy tranzystora, natomiast prąd wyjściowy płynie z emitera do masy. 
+Obciążenie, czyli element, do którego ma zostać dostarczony wzmocniony sygnał, jest podłączone pomiędzy emiterem a masą.
+
+Rezystancja obciążenia bezpośrednio wpływa na prąd emitera, a co za tym idzie, na prąd kolektora. 
+Wzmacniacz w układzie wspólnego kolektora charakteryzuje się niskim wzmocnieniem prądowym (mniejszym niż 1), 
+ale zapewnia dużą impedancję wejściową i niską impedancję wyjściową, co czyni go idealnym do zastosowań buforowych i dopasowujących impedancję.
+
+![image](https://github.com/LukaszWiktor/ham-radio-exam-pl/assets/2964543/bb3ea909-f905-45ca-8c88-92d45b2561ac)
 </details>
 
 ---
