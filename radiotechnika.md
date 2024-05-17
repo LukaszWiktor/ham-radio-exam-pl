@@ -352,11 +352,11 @@ Miedź ma opór właściwy około 1,68 × 10^-8 Ω·m.
 
 13. W obwodzie prądu stałego przez rezystor 1 kΩ płynie prąd 2 mA. Jaki jest spadek napięcia na rezystorze?
 
-a. 200 V
-
-b. 2000 V
-
-c. 2 V
+    a. 200 V
+    
+    b. 2000 V
+    
+    c. 2 V
 
 <details>
   <summary>Poprawna odpowiedź</summary>
@@ -379,6 +379,41 @@ I = 2 mA = 0,002 A
 Podstawiając wartości do wzoru:
 
 U = 1000 Ω * 0,002 A = 2 V
+</details>
+
+---
+
+14. Do zasilacza o napięciu 12 V chcemy podłączyć diodę świecącą o napięciu przewodzenia 3 V i nominalnym prądzie 20 mA.
+Jaki rezystor należy włączyć w szereg, by ograniczyć prąd?
+
+    a. 600 Ω
+    
+    b. 150 Ω
+    
+    c. 450 Ω
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+    **c. 450 Ω**
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Wyjaśnienie:
+
+Żeby ograniczyć napięcie do 3 V musimy dobrać rezystor, który spowoduje spadek napięcia o 9 V (12 V - 3 V = 9 V).
+
+Z prawa Ohma:
+
+U = R * I
+
+czyli
+
+R = U / I
+
+R = 9 V / 0.020 A = 900 V / 2 A = 450 (Ω)
 </details>
 
 ---
