@@ -551,3 +551,27 @@ Minimalna dopuszczalna szerokość filtra zależy od kilku czynników, takich ja
 Zatem, podczas gdy zawężanie filtra może być korzystne w przypadku modulacji CW, należy to robić ostrożnie, aby nie uciąć zbyt dużej części sygnału i nie utrudnić jego odbioru.
 </details>
 
+---
+
+20. W temperaturze pokojowej moc szumów termicznych w kanale o szerokości 1 Hz wynosi - 174 dBm. 
+Ile wynosi moc szumów w kanale o szerokości 10 kHz:
+
+    a. -134 dBm
+    
+    b. -214 dBm
+    
+    c. -170 dBm
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+a. -134 dBm
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+W skali logarytmicznej dBm, zwiększenie mocy o 10 000 razy odpowiada zwiększeniu o 40 dB (10 * log10(10 000) = 40).
+
+Zatem moc szumów termicznych w kanale 10 kHz wynosi -174 dBm + 40 dB = -134 dBm.
+</details>
