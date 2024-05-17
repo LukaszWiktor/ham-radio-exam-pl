@@ -913,3 +913,27 @@ W przypadku BPSK31, każdy symbol reprezentuje jeden bit informacji.
 
 ---
 
+32. W jaki sposób w emisjach cyfrowych można zapewnić korekcję błędów spowodowanych
+zakłóceniami i zanikami w łączności radiowej:
+
+    a. przez wprowadzenie sumy kontrolnej CRC i ponowne wysyłanie tej samej informacji
+
+    b. robi to operator wprowadzając odpowiednią komendę do modemu
+
+    c. nie wprowadza się korekcji, zaniki są naturalną cechą łączności cyfrowej
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+**a. przez wprowadzenie sumy kontrolnej CRC i ponowne wysyłanie tej samej informacji**
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+    
+Suma kontrolna CRC (Cyclic Redundancy Check) to algorytm matematyczny, który generuje kod kontrolny na podstawie wysyłanych danych. Kod ten jest dołączony do przesyłanej informacji. Po odebraniu danych odbiorca może obliczyć własną sumę kontrolną CRC i porównać ją z kodem otrzymanym. Jeśli kody się zgadzają, oznacza to, że dane nie zostały uszkodzone podczas przesyłania. W przypadku rozbieżności kodów wiadomo, że dane zostały błędnie odebrane.
+
+Ponowne wysłanie tej samej informacji ma na celu zapewnienie, że odbiorca otrzyma prawidłowe dane, nawet jeśli wystąpią zakłócenia lub zaniki w łączności. W przypadku wykrycia błędu odbiorca może poprosić nadawcę o ponowne wysłanie danych.
+</details>  
+
+---
