@@ -176,12 +176,10 @@ Może to nawet doprowadzić do uszkodzenia lub zniszczenia źródeł.
 
 <details> 
     <summary>Wyjaśnienie</summary>
-    <p>
-        Zdolność do gromadzenia energii w polu elektrycznym nazywa się <a href="https://pl.wikipedia.org/wiki/Pojemno%C5%9B%C4%87_elektryczna">pojemnością elektryczną</a>, po angielsku capacitance.
-    </p>
-    <p>
-        Polski termin <a href="https://pl.wikipedia.org/wiki/Kapacytancja">kapacytancja</a> oznacza reaktancję pojemnościową, inaczej opór bierny pojemnościowy.
-    </p>
+
+Zdolność do gromadzenia energii w polu elektrycznym nazywa się <a href="https://pl.wikipedia.org/wiki/Pojemno%C5%9B%C4%87_elektryczna">pojemnością elektryczną</a>, po angielsku capacitance.
+
+Polski termin <a href="https://pl.wikipedia.org/wiki/Kapacytancja">kapacytancja</a> oznacza reaktancję pojemnościową, inaczej opór bierny pojemnościowy.
 </details>
 
 ---
@@ -200,7 +198,7 @@ Może to nawet doprowadzić do uszkodzenia lub zniszczenia źródeł.
 </details>
 
 <details> 
-    <summary>Wyjaśnienie</summary>  
+    <summary>Wyjaśnienie</summary>
 Współczynnik skrócenia przewodu jest definiowany jako stosunek prędkości rozchodzenia się fali elektromagnetycznej w przewodzie do prędkości światła w próżni.
 
 Prędkość rozchodzenia się fali elektromagnetycznej w przewodzie jest mniejsza niż prędkość światła w próżni ze względu na wpływ materiału dielektrycznego i konstrukcji przewodu. 
@@ -208,6 +206,30 @@ Współczynnik skrócenia przewodu wyraża, o ile ta prędkość jest mniejsza w
 
 Jego wartość jest zawsze mniejsza od 1 i zależy od właściwości dielektryka oraz geometrii przewodu. 
 Im wyższy współczynnik skrócenia, tym bliższy prędkości światła jest rozchodzenie się fali w przewodzie.
+</details>
+
+---
+
+9. Jak nazywa się prąd, który zmienia swój kierunek w regularnych odstępach czasu?
+
+    a. prąd stały
+    
+    b. prąd przemienny
+    
+    c. prąd siatki
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+b. prąd przemienny
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary>
+Prąd przemienny to rodzaj prądu elektrycznego, którego natężenie i kierunek przepływu zmieniają się cyklicznie w regularnych odstępach czasu.
+
+W przeciwieństwie do prądu stałego, gdzie elektroeny płyną w jednym, niezmiennym kierunku, w prądzie przemiennym kierunek przepływu ładunków elektrycznych cyklicznie się odwraca.
+
+Prąd przemienny jest powszechnie wykorzystywany w sieciach przesyłowych i dystrybucji energii elektrycznej oraz w wielu urządzeniach elektrycznych i elektronicznych, takich jak silniki elektryczne, transformatory, generatory itp.
 </details>
 
 ---
