@@ -793,7 +793,6 @@ mówimy, że:
 
 <details> 
     <summary>Wyjaśnienie</summary><br>
-   
 
 Współczynnik głębokości modulacji wynosi 100% wtedy, gdy amplituda sygnału modulującego jest równa amplitudzie fali nośnej w modulacji amplitudy (AM). 
 
@@ -802,5 +801,28 @@ Współczynnik głębokości modulacji określa stosunek amplitudy sygnału modu
 Jeśli amplituda sygnału modulującego przekracza amplitudę fali nośnej, sygnał jest przesterowany.. 
 
 Modulacja z wytłumioną falą nośną, czyli opcja c, występuje w przypadku, gdy moc fali nośnej jest zredukowana do minimum.
+
+</details>
+
+---
+
+28. Szerokość kanału sygnału PSK31 wynosi:
+    
+    a. około 1 kHz
+    
+    b. około 60 Hz
+    
+    c. około 31,25 Hz
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+**c. około 31,25 Hz**
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+PSK31 (Phase Shift Keying 31) jest cyfrową modulacją używaną w łączności radiowej. Wykorzystuje bardzo wąski pasmo częstotliwości, wynoszące około 31,25 Hz.
 
 </details>
