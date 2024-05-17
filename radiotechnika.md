@@ -161,6 +161,30 @@ Może to nawet doprowadzić do uszkodzenia lub zniszczenia źródeł.
 
 ---
 
+7. Jak nazywa się zdolność do gromadzenia energii w polu elektrycznym?
+
+a. opór
+
+b. pojemność
+
+c. kapacytancja
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    b. pojemność
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary>
+    <p>
+        Zdolność do gromadzenia energii w polu elektrycznym nazywa się <a href="https://pl.wikipedia.org/wiki/Pojemno%C5%9B%C4%87_elektryczna">pojemnością elektryczną</a>, po angielsku capacitance.
+    </p>
+    <p>
+        Polski termin <a href="https://pl.wikipedia.org/wiki/Kapacytancja">kapacytancja</a> oznacza reaktancję pojemnościową, inaczej opór bierny pojemnościowy.
+    </p>
+</details>
+
+---
 
 
 
