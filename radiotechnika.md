@@ -395,13 +395,11 @@ Jaki rezystor należy włączyć w szereg, by ograniczyć prąd?
 <details>
   <summary>Poprawna odpowiedź</summary>
     
-    **c. 450 Ω**
+c. 450 Ω
 </details>
 
 <details> 
     <summary>Wyjaśnienie</summary><br>
-
-Wyjaśnienie:
 
 Żeby ograniczyć napięcie do 3 V musimy dobrać rezystor, który spowoduje spadek napięcia o 9 V (12 V - 3 V = 9 V).
 
@@ -417,3 +415,29 @@ R = 9 V / 0.020 A = 900 V / 2 A = 450 (Ω)
 </details>
 
 ---
+
+15. Która z cech łączy szeregowy obwód rezonansowy LC z typową anteną (dipol półfalowy):
+
+    a. w rezonansie stanowią tylko rezystancję
+    
+    b. w rezonansie stanowią reaktancję pojemnościową
+    
+    c. w rezonansie stanowią reaktancję indukcyjną
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+a. w rezonansie stanowią tylko rezystancję
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+    
+W rezonansie zarówno szeregowy obwód rezonansowy LC, jak i typowa antena dipolowa półfalowa wykazują podobną cechę - w warunkach rezonansowych stanowią one rezystancję (opcja a).
+
+W przypadku szeregowego obwodu rezonansowego LC, gdy częstotliwość zasilania jest równa częstotliwości rezonansowej, reaktancja indukcyjna wyrównuje się z reaktancją pojemnościową, a ich wartości wzajemnie się znoszą. W efekcie, pozostaje tylko rezystancja, ponieważ nie występuje już składowa reaktancyjna.
+
+Podobnie w przypadku anteny dipolowej półfalowej, gdy jej długość jest równa połowie długości fali, antena wchodzi w rezonans i jej impedancja wejściowa staje się czysto rezystancyjna. Oznacza to, że antena dipol półfalowy w rezonansie nie wykazuje reaktancji, a jedynie rezystancję.
+
+Zatem poprawną odpowiedzią jest opcja a - zarówno szeregowy obwód rezonansowy LC, jak i antena dipol półfalowa w rezonansie stanowią tylko rezystancję, nie wykazując reaktancji pojemnościowej ani indukcyjnej.
+</details>
