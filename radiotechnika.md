@@ -1,10 +1,10 @@
 1. Który z poniższych materiałów jest dobrym izolatorem elektrycznym?
 
-a. szkło
+    a. szkło
 
-b. grafit
+    b. grafit
 
-c. krzem
+    c. krzem
 
 <details>
   <summary>Poprawna odpowiedź</summary> 
@@ -22,6 +22,28 @@ c. krzem
   Krzem jest półprzewodnikiem, co oznacza, że ​​jego przewodność elektryczna może być kontrolowana za pomocą pola elektrycznego lub domieszkowania. 
   W czystej postaci krzem jest słabym przewodnikiem, ale można go domieszkować innymi pierwiastkami, aby zwiększyć jego przewodność. 
   Krzem jest podstawowym materiałem, z którego zbudowane są układy scalone i inne komponenty elektroniczne.
+</details>
+
+---
+
+2. Obwód elektryczny składa się z kilku rezystorów o różnych wartościach i źródła zasilania. Połączenie, w którym przez wszystkie elementy płynie ten sam prąd nazywamy połączeniem:
+
+    a. rezonansowym
+    
+    b. szeregowym
+    
+    c. równoległym
+
+<details>
+  <summary>Poprawna odpowiedź</summary> 
+  
+  b. szeregowym
+</details>
+
+<details> 
+  <summary>Wyjaśnienie</summary>
+
+  W połączeniu szeregowym prąd przepływa przez wszystkie elementy jeden po drugim. Oznacza to, że natężenie prądu jest takie samo dla każdego elementu w obwodzie.
 </details>
 
 ---
