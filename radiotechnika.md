@@ -441,3 +441,33 @@ Podobnie w przypadku anteny dipolowej półfalowej, gdy jej długość jest rów
 
 Zatem poprawną odpowiedzią jest opcja a - zarówno szeregowy obwód rezonansowy LC, jak i antena dipol półfalowa w rezonansie stanowią tylko rezystancję, nie wykazując reaktancji pojemnościowej ani indukcyjnej.
 </details>
+
+---
+
+16. Wartość skuteczna napięcia sieciowego wynosi 230 V, ile wynosi jego amplituda?
+
+    a. 230 V
+    
+    b. 325 V
+    
+    c. 220 V
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+b. 325 V
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+    
+Dla napięcia sinusoidalnego symetrycznego o wartości maksymalnej równej U₀ napięcie skuteczne Usk wynosi:
+
+Usk = U₀ / √2
+
+czyli
+
+U₀ = Usk * √2 = 230 V * 1.4 = 325
+</details>
+
+---
