@@ -889,3 +889,27 @@ U = ε - I * r = 1,5 V - 1 A * 0,1 Ω = 1,4 V
 
 ---
 
+31. Liczba 31 w nazwie modulacji BPSK31 oznacza:
+
+    a. szerokość kanału - 31 Hz
+    
+    b. szybkość przesyłania informacji - 31 Bd
+    
+    c. głębokość modulacji - 31%
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+    
+**b. szybkość przesyłania informacji - 31 Bd**
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+W nazwie modulacji BPSK31 liczba 31 oznacza szybkość przesyłania informacji, wyrażoną w baudach (Bd).
+Baud jest jednostką miary określającą liczbę symbolów przesyłanych na sekundę. 
+W przypadku BPSK31, każdy symbol reprezentuje jeden bit informacji.
+</details>
+
+---
+
