@@ -47,3 +47,25 @@
 </details>
 
 ---
+
+3. Przez kondensator o impedancji 10 Ω płynie prąd przemienny o częstotliwości 50Hz i
+wartości 2A. Jaki będzie spadek napięcia na kondensatorze?
+
+    a. 10 V
+
+    b. 50 V
+
+    c. 20 V
+
+<details>
+  <summary>Poprawna odpowiedź</summary> 
+    c. 20 V
+</details>
+
+<details> 
+  <summary>Wyjaśnienie</summary>
+
+    U = R * I = 10 * 2 = 20    
+</details>
+
+---
