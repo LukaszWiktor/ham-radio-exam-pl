@@ -84,16 +84,15 @@ Całkowite natężenie prądu płynącego w obwodzie to:
 
 <details> 
   <summary>Wyjaśnienie</summary>
+Aby obliczyć całkowite natężenie prądu w obwodzie równoległym, należy zsumować natężenia prądu płynące przez każdy z równoległych rezystorów.
 
-    Aby obliczyć całkowite natężenie prądu w obwodzie równoległym, należy zsumować natężenia prądu płynące przez każdy z równoległych rezystorów.
-    
-    W tym przypadku:
-    
-    Prąd przez pierwszy rezystor (1 Ω) wynosi 4 A.
-    Prąd przez drugi rezystor (2 Ω) wynosi 2 A.
-    Prąd przez trzeci rezystor (4 Ω) wynosi 1 A.
-    
-    Całkowity prąd = 4 A + 2 A + 1 A = 7 A
+W tym przypadku:
+
+Prąd przez pierwszy rezystor (1 Ω) wynosi 4 A.
+Prąd przez drugi rezystor (2 Ω) wynosi 2 A.
+Prąd przez trzeci rezystor (4 Ω) wynosi 1 A.
+
+Całkowity prąd = 4 A + 2 A + 1 A = 7 A
 </details>
 
 ---
@@ -109,33 +108,59 @@ prądu?
 
 <details>
   <summary>Poprawna odpowiedź</summary> 
-   a. 1 V
+    a. 1 V
 </details>
 
 <details> 
   <summary>Wyjaśnienie</summary>
+Aby obliczyć spadek napięcia na akumulatorze, należy zastosować prawo Ohma:
 
-    Aby obliczyć spadek napięcia na akumulatorze, należy zastosować prawo Ohma:
-    
-    U = I * R
-    
-    Gdzie:
-    
-    U - spadek napięcia (w woltach)
-    
-    I - natężenie prądu (w amperach)
-    
-    R - rezystancja (w omach)
-    
-    Dane:
-    
-    I = 10 A (prąd pobierany)
-    
-    R = 0,1 Ω (rezystancja wewnętrzna akumulatora)
-    
-    Podstawiając wartości do wzoru, otrzymamy:
-    
-    U = 10 A * 0,1 Ω = 1 V
+U = I * R
+
+Gdzie:
+
+U - spadek napięcia (w woltach)
+
+I - natężenie prądu (w amperach)
+
+R - rezystancja (w omach)
+
+Dane:
+
+I = 10 A (prąd pobierany)
+
+R = 0,1 Ω (rezystancja wewnętrzna akumulatora)
+
+Podstawiając wartości do wzoru, otrzymamy:
+
+U = 10 A * 0,1 Ω = 1 V
 </details>
 
 ---
+
+6. Łącząc równolegle źródła napięcia powinno się:
+
+    a. łączyć źródła o tej samej wydajności prądowej
+    
+    b. łączyć źródła tylko tego samego typu
+    
+    c. zadbać by ich napięcia były jednakowe
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+c. zadbać by ich napięcia były jednakowe
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary>
+Podczas równoległego łączenia źródeł napięcia kluczowe jest, aby napięcia wszystkich źródeł były identyczne. 
+Dzieje się tak, ponieważ w układzie równoległym zaciski dodatnie wszystkich źródeł łączy się ze sobą, a tak samo zaciski ujemne. 
+Gdyby napięcia źródeł różniły się, w obwodzie powstałaby różnica potencjałów, prowadząca do przepływu prądu wyrównującego i marnowania energii.
+Może to nawet doprowadzić do uszkodzenia lub zniszczenia źródeł.
+</details>
+
+---
+
+
+
+
