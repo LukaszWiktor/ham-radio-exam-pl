@@ -575,3 +575,30 @@ W skali logarytmicznej dBm, zwiększenie mocy o 10 000 razy odpowiada zwiększen
 
 Zatem moc szumów termicznych w kanale 10 kHz wynosi -174 dBm + 40 dB = -134 dBm.
 </details>
+
+---
+
+21. Panel fotowoltaiczny oddaje moc 24W i ładuje akumulator prądem 2A. Zakładając
+stuprocentową sprawność układu ładowania, jakie jest napięcie na akumulatorze?
+
+    a. napięcie wynosi 24 V
+    
+    b. napięcie wynosi 12 V
+    
+    c. napięcie wynosi 48 V
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+</details>
+
+b. 12 V
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+P = U * I
+
+czyli
+
+U = P / I = 24 W / 2 A = 12 V
+</details>
+
