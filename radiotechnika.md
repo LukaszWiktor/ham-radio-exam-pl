@@ -937,3 +937,80 @@ Ponowne wysłanie tej samej informacji ma na celu zapewnienie, że odbiorca otrz
 </details>  
 
 ---
+
+33. Moc PEP jest:
+
+    a. mocą średnią
+
+    b. mocą w szczytach modulacji
+
+    c. mocą maksymalną tranzystora, po przekroczeniu której ulega uszkodzeniu
+    
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+b. mocą w szczytach modulacji
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Moc PEP odnosi się do maksymalnej mocy szczytowej, jaką sygnał może osiągnąć podczas modulacji. 
+Jest to najczęściej stosowane w kontekście radiokomunikacji do określenia mocy wyjściowej nadajnika w chwilach, gdy sygnał osiąga swoje szczytowe wartości.
+</details>
+
+---
+
+34. Sygnał silniejszy o 3 dB to:
+
+    a. sygnał o trzykrotnie większej mocy
+
+    b. sygnał o dziesięciokrotnie większej mocy
+
+    c. sygnał o dwukrotnie większej mocy
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+c. sygnał o dwukrotnie większej mocy
+</details>
+
+
+
+<details> 
+    <summary>Wyjaśnienie</summary><br> 
+
+$P_{dB} = 10 \log_{10} \left( \frac{P}{P_0} \right)$
+
+$P = P_0 \times 10^{\left(\frac{P_{dB}}{10 }\right)}$
+    
+**dB**|**Power ratio**
+-----|-----
+100|10000000000
+90|1000000000
+80|100000000
+70|10000000
+60|1000000
+50|100000
+40|10000
+30|1000
+20|100
+10|10
+6|3.981 ≈ 4
+3|1.995 ≈ 2
+1|1.259
+0|1
+−1|0.794
+−3|0.501 ≈ 1⁄2
+−6|0.251 ≈ 1⁄4
+−10|0.1
+−20|0.01
+−30|0.001
+−40|0.0001
+−50|0.00001
+−60|0.000001
+−70|0.0000001
+−80|0.00000001
+−90|0.000000001
+−100|0.0000000001
+</details>
