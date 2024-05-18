@@ -1044,7 +1044,11 @@ $P = P_0 \times 10^{\left(\frac{P_{dB}}{10}\right)}$
 
 $10^{\left(\frac{6}{10}\right)} = 3.98 \\approx 4$
 
-Zatem dla dwóch stopni skali S-metru potrzebujemy 4 * 4 = 16-krotnie zwiększyć moc nadajnika.
+Przejście na skali S-metru z S7 na S8 wymaga 4-krotnego zwiększania mocy.
+
+Do przejście z S8 na S9 potrzeba kolejnego 4-krotnego zwiększania mocy.
+
+Zatem dla wzrostu o 2 stopnie na skali S-metru należy zwiększyć moc nadajnika 16-krotnie (4 * 4 = 16).
 
 </details>
 
