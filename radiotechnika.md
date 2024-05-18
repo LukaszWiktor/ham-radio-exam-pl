@@ -1076,3 +1076,34 @@ a. -13 dBm
 
 ---
 
+37. Na wejście analizatora widma można bezpiecznie podać sygnał o mocy 20 dBm. Jakiego tłumika należy użyć, by nie uszkodzić przyrządu badając sygnał wyjściowy nadajnika o mocy 100 W:
+    
+    a. co najmniej 10 dB
+
+    b. co najmniej 30 dB
+
+    c. co najmniej 20 dB
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+b. co najmniej 30 dB
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br> 
+
+Jednostka dBm jest jednostką mocy wyrażoną w decybelach względem 1 miliwata (mW).
+
+
+$P_{dBm} = 10 \log_{10} \left( \frac{P_mW}{1 mW} \right)$
+
+100W to 100000 mW, czyli 50 dBm
+
+Różnica między mocą sygnału wejściowego (50 dBm) a maksymalną dopuszczalną mocą na wejściu analizatora (20 dBm) wynosi:
+
+50 dBm - 20 dBm = 30 dB
+
+Zatem potrzebujemy tłumika o tłumieniu co najmniej 30 dB, aby nie uszkodzić analizatora widma.
+
+</details>
