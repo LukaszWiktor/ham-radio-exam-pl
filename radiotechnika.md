@@ -1071,7 +1071,7 @@ a. -13 dBm
 <details> 
     <summary>Wyjaśnienie</summary><br> 
 
-−20 dB + 10dB - 3dB = −13 dBm
+−20 dB + 10 dB - 3 dB = −13 dB
 </details>
 
 ---
