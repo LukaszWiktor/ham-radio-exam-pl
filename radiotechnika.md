@@ -1053,3 +1053,26 @@ Zatem dla wzrostu o 2 stopnie na skali S-metru należy zwiększyć moc nadajnika
 </details>
 
 ---
+
+36. System antenowy dostarcza sygnał na poziomie -20dBm, jest on podłączony do przedwzmacniacza o wzmocnieniu 10dB kablem o tłumieniu 3dB. Jakiej mocy sygnał uzyskamy na wyjściu przedwzmacniacza?
+
+    a. -13 dBm
+
+    b. -33 dBm
+
+    c. -27 dBm
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+a. -13 dBm
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br> 
+
+−20 dB + 10dB - 3dB = −13 dBm
+</details>
+
+---
+
