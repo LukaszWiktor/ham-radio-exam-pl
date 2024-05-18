@@ -982,7 +982,9 @@ c. sygnał o dwukrotnie większej mocy
 
 $P_{dB} = 10 \log_{10} \left( \frac{P}{P_0} \right)$
 
-$P = P_0 \times 10^{\left(\frac{P_{dB}}{10 }\right)}$
+$P = P_0 \times 10^{\left(\frac{P_{dB}}{10}\right)}$
+
+$10^{\left(\frac{3}{10}\right)} = 1.995 \\approx 2$
     
 **dB**|**Power ratio**
 -----|-----
@@ -1014,3 +1016,36 @@ $P = P_0 \times 10^{\left(\frac{P_{dB}}{10 }\right)}$
 −90|0.000000001
 −100|0.0000000001
 </details>
+
+---
+
+35. Na skali S-metru jedna jednostka odpowiada wzrostowi odbieranego sygnału o 6 dB. Aby
+sygnał odbierany przez naszego korespondenta wzrósł z S7 do S9, moc nadajnika należy
+zwiększyć:
+
+    a. ośmiokrotnie
+
+    b. czterokrotnie
+
+    c. szesnastokrotnie
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+c. szesnastokrotnie
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br> 
+
+Wzrost o 6 dB oznacza około 4-krotne zwiekszenie mocy.
+
+$P = P_0 \times 10^{\left(\frac{P_{dB}}{10}\right)}$
+
+$10^{\left(\frac{6}{10}\right)} = 3.98 \\approx 4$
+
+Zatem dla dwóch stopni skali S-metru potrzebujemy 4 * 4 = 16-krotnie zwiększyć moc nadajnika.
+
+</details>
+
+---
