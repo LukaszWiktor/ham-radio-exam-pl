@@ -1107,3 +1107,29 @@ Różnica między mocą sygnału wejściowego (50 dBm) a maksymalną dopuszczaln
 Zatem potrzebujemy tłumika o tłumieniu co najmniej 30 dB, aby nie uszkodzić analizatora widma.
 
 </details>
+
+---
+
+38. Jak przebiegają linie pola magnetycznego wytworzonego przez przewodnik z prądem?
+
+    a. są równolegle do osi przewodu
+    
+    b. przewodnik z prądem wytwarza tylko pole elektryczne
+    
+    c. są równoległe do powierzchni przewodnika i prostopadłe do jego osi
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+c. są równoległe do powierzchni przewodnika i prostopadłe do jego osi
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Kierunek linii pola magnetycznego można określić za pomocą reguły prawej dłoni.
+Jeśli prawą dłoń ułożyć tak, aby kciuk wskazywał kierunek przepływu prądu w przewodniku, to pozostałe palce wskażą kierunek linii pola magnetycznego wokół przewodnika.
+
+![image](https://github.com/LukaszWiktor/ham-radio-exam-pl/assets/2964543/6d5404bc-2630-4bd0-9b64-5b500d37d8f5)
+
+</details>
