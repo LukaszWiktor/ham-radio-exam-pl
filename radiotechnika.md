@@ -1178,3 +1178,32 @@ a. 36%
 
 100/280 = 0.357... ≈ 36%
 </details>
+
+---
+
+41. Jaką moc PEP dostarcza nadajnik, jeśli napięcie międzyszczytowe (peak to peak) zmierzone oscyloskopem na sztucznym obciążeniu 50 Ω wynosi 200 V?
+
+    a. 200 W
+    
+    b. 100 W
+    
+    c. 50 W
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+b. 100 W
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Napięcie międzyszczytowe (Upp) wynosi 200 V, więc wartość szczytowa napięcia (Up) to połowa napięcia międzyszczytowego:
+
+$U_p = \frac{U_{pp}}{2} = \frac{200 \text{V}}{2} = 100 \text{V}$
+
+Napięcie skuteczne $U_{sk} = \frac{U_p}{\sqrt{2}}$
+
+Moc $PEP = \frac{U_{sk}^2}{R} = \frac{U_p^2}{2 \times R} = \frac{100^2}{2 \times 50} = 100 W$
+</details>
+
