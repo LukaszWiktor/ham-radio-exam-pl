@@ -1136,8 +1136,7 @@ Jeśli prawą dłoń ułożyć tak, aby kciuk wskazywał kierunek przepływu pr�
 
 ---
 
-39. Niedopasowanie anteny do linii transmisyjnej powoduje powstanie fali stojącej i w
-konsekwencji:
+39. Niedopasowanie anteny do linii transmisyjnej powoduje powstanie fali stojącej i w konsekwencji:
 
     a. odbicia sygnału od miejsca niedopasowania i straty w linii transmisyjnej
     
@@ -1159,3 +1158,23 @@ Ta odbita energia interferuje z falą biegnącą, tworząc falę stojącą. Skut
 </details>
 
 ---
+
+40. Nadajnik o mocy wyjściowej 100 W pobiera z zasilacza 280 W. Jego sprawność wynosi około:
+
+    a. 36%
+    
+    b. 64%
+    
+    c. 280%
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+a. 36%
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+100/280 = 0.357... ≈ 36%
+</details>
