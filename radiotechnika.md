@@ -1133,3 +1133,29 @@ Jeśli prawą dłoń ułożyć tak, aby kciuk wskazywał kierunek przepływu pr�
 ![image](https://github.com/LukaszWiktor/ham-radio-exam-pl/assets/2964543/6d5404bc-2630-4bd0-9b64-5b500d37d8f5)
 
 </details>
+
+---
+
+39. Niedopasowanie anteny do linii transmisyjnej powoduje powstanie fali stojącej i w
+konsekwencji:
+
+    a. odbicia sygnału od miejsca niedopasowania i straty w linii transmisyjnej
+    
+    b. może spowodować spalenie anteny
+    
+    c. drgania fidera
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+a. odbicia sygnału od miejsca niedopasowania i straty w linii transmisyjnej.
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Niedopasowanie anteny do linii transmisyjnej powoduje powstanie fali stojącej, co prowadzi do odbicia części energii fali elektromagnetycznej od miejsca niedopasowania z powrotem do linii transmisyjnej.
+Ta odbita energia interferuje z falą biegnącą, tworząc falę stojącą. Skutkiem jest strata mocy transmisji i obniżenie sprawności systemu.
+</details>
+
+---
