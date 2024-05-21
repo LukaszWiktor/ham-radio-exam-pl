@@ -1341,3 +1341,35 @@ S - Source - źródło
 D - Drain - dren
 G - Gate - bramka
 </details>
+
+---
+
+46. Szeregowy obwód rezonansowy LC połączony w szereg z obciążeniem stanowi:
+
+    a. filtr pasmowoprzepustowy
+
+    b. filtr pasmowozaporowy
+
+    c. filtr IIR
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    a. filtr pasmowoprzepustowy
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Szeregowy obwód rezonansowy LC (indukcyjno-pojemnościowy) ma minimalną impedancję na częstotliwości rezonansowej, co oznacza, że dla tej częstotliwości sygnał przechodzi przez obwód z minimalnym tłumieniem.
+Dla częstotliwości poza rezonansową impedancja obwodu rośnie, co tłumi sygnały o innych częstotliwościach. 
+Dlatego taki obwód działa jako [filtr pasmowoprzepustowy](https://pl.wikipedia.org/wiki/Filtr_%C5%9Brodkowoprzepustowy), przepuszczając sygnały wąskiego pasma częstotliwości wokół częstotliwości rezonansowej.
+
+Odzpowiedzi b. i c. są niepoprawne:
+
+Filtr pasmowozaporowy tłumi sygnały w określonej częstotliwości, a nie przepuszcza ich.
+
+Filtr IIR (Infinite Impulse Response) to typ filtru cyfrowego, a nie analogowego, jak szeregowy obwód rezonansowy LC.
+</details>
+
+---
