@@ -1312,3 +1312,32 @@ I₁ = P₁ / U₁ = 230W / 230V = 1A
 
 Zatem przy maksymalnym obciążeniu po stronie wtórnej, prąd po stronie pierwotnej transformatora wyniesie 1A.
 </details>
+
+---
+
+45. W tranzystorach polowych prąd drenu sterowany jest przez
+
+    a. prąd bazy
+
+    b. napięcie pomiędzy bramką, a źródłem
+
+    c. pojemność złączową
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    b. napięcie pomiędzy bramką, a źródłem
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+W tranzystorach polowych, przepływ prądu drenu $I_d$ jest regulowany za pomocą napięcia bramka-źródło $U_{GS}$. 
+Dzieje się tak, ponieważ napięcie to steruje polem elektrycznym w obrębie kanału, przez który przepływa prąd.
+    
+![image](https://github.com/LukaszWiktor/ham-radio-exam-pl/assets/2964543/b035af94-cf63-4934-b854-1c6e2e764822)
+
+S - Source - źródło
+D - Drain - dren
+G - Gate - bramka
+</details>
