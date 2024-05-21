@@ -1397,3 +1397,57 @@ gdzie istotne jest filtrowanie sygnałów o określonych częstotliwościach prz
 </details>
 
 ---
+
+48. Element aktywny we wzmacniaczu przewodzi przez cały okres wzmacnianego sygnału.
+Wzmacniacz ten pracuje w klasie:
+
+    a. A
+
+    b. B
+
+    c. C
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    a. A
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+![image](https://github.com/LukaszWiktor/ham-radio-exam-pl/assets/2964543/eb0a98a2-f2f1-491f-ae34-9631e1b3c56f)
+
+    
+W klasie A element aktywny (np. tranzystor) przewodzi prąd przez cały okres fali sinusoidalnej wzmacnianego sygnału. Oznacza to, że element ten jest cały czas włączony, niezależnie od wartości sygnału wejściowego.
+
+Zalety wzmacniaczy klasy A:
+
+Niskie zniekształcenia harmoniczne
+Mała zaszumienie
+Liniowa charakterystyka
+Wady wzmacniaczy klasy A:
+
+Niska sprawność energetyczna (duże straty ciepła)
+Wysoka temperatura pracy
+Duże rozmiary i waga
+Ze względu na wady, wzmacniacze klasy A stosowane są rzadziej, głównie w zastosowaniach, gdzie najważniejsza jest jakość dźwięku, a nie moc wyjściowa i efektywność energetyczna.
+
+W klasie B element aktywny przewodzi prąd tylko przez połowę okresu fali sinusoidalnej. Oznacza to, że jest włączony tylko wtedy, gdy sygnał wejściowy jest dodatni lub ujemny (w zależności od konfiguracji).
+
+Zalety wzmacniaczy klasy B:
+
+Wysoka sprawność energetyczna
+Małe rozmiary i waga
+Wady wzmacniaczy klasy B:
+
+Wyższe zniekształcenia harmoniczne niż w klasie A
+Większe zaszumienie
+Nieliniowa charakterystyka w okolicach zera
+Ze względu na zalety, wzmacniacze klasy B są bardziej popularne niż wzmacniacze klasy A. Stosowane są w szerokim zakresie zastosowań, od wzmacniaczy audio do zasilaczy impulsowych.
+
+Klasa C to mniej popularna klasa pracy, w której element aktywny przewodzi prąd przez mniej niż połowę okresu fali sinusoidalnej. Wzmacniacze klasy C charakteryzują się bardzo wysoką sprawnością energetyczną, ale również bardzo wysokimi zniekształceniami harmonicznymi. Stosowane są w wąskich zastosowaniach, gdzie najważniejsza jest efektywność energetyczna, a nie jakość dźwięku.
+
+Podsumowując, jeśli element aktywny we wzmacniaczu przewodzi prąd przez cały okres wzmacnianego sygnału, to wzmacniacz ten pracuje w klasie A.
+</details>
+
