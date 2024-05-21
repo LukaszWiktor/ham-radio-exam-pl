@@ -1207,3 +1207,25 @@ Napięcie skuteczne $U_{sk} = \frac{U_p}{\sqrt{2}}$
 Moc $PEP = \frac{U_{sk}^2}{R} = \frac{U_p^2}{2 \times R} = \frac{100^2}{2 \times 50} = 100 W$
 </details>
 
+---
+
+42. Jaka powinna być częstotliwość próbkowania sygnału o maksymalnej częstotliwości składowej 50 kHz, aby poprawnie można było ten sygnał odtworzyć?
+
+    a. minimum 50 kHz
+
+    b. minimum 100 kHz
+
+    c. minimum 500 kHz
+
+    
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+b. minimum 100 kHz
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+ 
+Zgodnie z [twierdzeniem o próbkowaniu](https://pl.wikipedia.org/wiki/Twierdzenie_o_pr%C3%B3bkowaniu) (twierdzeniem Nyquista-Shannona), sygnał można poprawnie odtworzyć, jeżeli jest próbkowany z częstotliwością co najmniej dwa razy większą niż najwyższa częstotliwość składowa tego sygnału.
+</details>
