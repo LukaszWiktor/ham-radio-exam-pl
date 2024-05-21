@@ -1496,5 +1496,33 @@ ALC monitoruje poziom sygnału wyjściowego i automatycznie dostosowuje wzmocnie
 Kiedy mieszamy dwa sygnały o różnych częstotliwościach, na wyjściu otrzymujemy sumę i różnicę ich częstotliwości. W tym przypadku:
 
 Suma: 5 MHz + 2 MHz = 7 MHz
+
 Różnica: 5 MHz - 2 MHz = 3 MHz
+</details>
+
+---
+
+51. Który termin opisuje zdolność odbiornika do wyodrębnienia spośród różnych sygnałów doprowadzonych do wejścia odbiornika tylko sygnału o takiej częstotliwości, na którą jest nastrojony:
+
+    a. współczynnik dyskryminacji
+
+    b. czułość
+
+    c. selektywność
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    c. selektywność
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Selektywność odbiornika radiowego to jego zdolność do oddzielenia żądanego sygnału od zakłócających sygnałów o zbliżonych częstotliwościach. 
+Osiąga się to poprzez zastosowanie filtrów w obwodach odbiornika.
+
+Współczynnik dyskryminacji określa zdolność odbiornika do rozróżniania między sygnałem modulowanym a sygnałem nośnym.
+
+Czułość odbiornika to jego zdolność do odbioru słabych sygnałów.
 </details>
