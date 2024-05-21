@@ -1474,3 +1474,27 @@ ALC monitoruje poziom sygnału wyjściowego i automatycznie dostosowuje wzmocnie
 </details>
 
 ---
+
+50. Efektem mieszania dwóch sygnałów o częstotliwościach: 5 MHz i 2 MHz jest:
+
+    a. sygnał o częstotliwości 3 MHz
+
+    b. sygnał o częstotliwości 7 MHz
+
+    c. dwa sygnały o częstotliwości 3 MHz i 7 MHz
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    c. dwa sygnały o częstotliwości 3 MHz i 7 MHz
+</details>
+
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Kiedy mieszamy dwa sygnały o różnych częstotliwościach, na wyjściu otrzymujemy sumę i różnicę ich częstotliwości. W tym przypadku:
+
+Suma: 5 MHz + 2 MHz = 7 MHz
+Różnica: 5 MHz - 2 MHz = 3 MHz
+</details>
