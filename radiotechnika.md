@@ -1451,3 +1451,26 @@ Klasa C to mniej popularna klasa pracy, w której element aktywny przewodzi prą
 Podsumowując, jeśli element aktywny we wzmacniaczu przewodzi prąd przez cały okres wzmacnianego sygnału, to wzmacniacz ten pracuje w klasie A.
 </details>
 
+---
+
+49. W jakim celu używana jest automatyczna kontrola poziomu (ALC) we wzmacniaczu mocy RF?
+
+    a. aby zrównoważyć charakterystykę częstotliwościową nadajnika
+
+    b. aby zredukować promieniowanie harmonicznych
+
+    c. aby zmniejszyć zniekształcenia spowodowane nadmiernym wysterowaniem
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    c. aby zmniejszyć zniekształcenia spowodowane nadmiernym wysterowaniem
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+ALC monitoruje poziom sygnału wyjściowego i automatycznie dostosowuje wzmocnienie, aby zapobiec zbyt dużemu wzmocnieniu sygnału, co mogłoby prowadzić do przesterowania i powstawania zniekształceń. Dzięki temu sygnał jest utrzymywany w optymalnym zakresie, co zapewnia lepszą jakość transmisji i minimalizuje ryzyko uszkodzenia wzmacniacza.
+</details>
+
+---
