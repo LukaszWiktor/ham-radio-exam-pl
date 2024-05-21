@@ -1373,3 +1373,27 @@ Filtr IIR (Infinite Impulse Response) to typ filtru cyfrowego, a nie analogowego
 </details>
 
 ---
+
+47. Jakie zalety sprawiają, że filtry kwarcowe stosowane są w torze p. cz.?
+
+    a. duża stromość zboczy charakterystyki częstotliwościowej pozwala na uzyskanie dobrej selektywności
+
+    b. zafalowania charakterystyki częstotliwościowej w paśmie przenoszenia pozwalają na łatwą realizację funkcji automatycznej regulacji wzmocnienia
+
+    c. łatwość budowy filtru o przestrajanej częstotliwości środkowej pozwala stworzyć filtr podążający za częstotliwością VFO
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    a. duża stromość zboczy charakterystyki częstotliwościowej pozwala na uzyskanie dobrej selektywności
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Filtry kwarcowe charakteryzują się bardzo dużą selektywnością dzięki stromej charakterystyce częstotliwościowej.
+Oznacza to, że są one zdolne do bardzo precyzyjnego oddzielania sygnałów o różnych częstotliwościach, co jest kluczowe w torach p.cz.,
+gdzie istotne jest filtrowanie sygnałów o określonych częstotliwościach przy jednoczesnym tłumieniu zakłóceń i sygnałów niepożądanych.
+</details>
+
+---
