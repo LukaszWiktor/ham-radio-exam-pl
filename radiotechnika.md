@@ -1227,5 +1227,34 @@ b. minimum 100 kHz
 <details> 
     <summary>Wyjaśnienie</summary><br>
  
-Zgodnie z [twierdzeniem o próbkowaniu](https://pl.wikipedia.org/wiki/Twierdzenie_o_pr%C3%B3bkowaniu) (twierdzeniem Nyquista-Shannona), sygnał można poprawnie odtworzyć, jeżeli jest próbkowany z częstotliwością co najmniej dwa razy większą niż najwyższa częstotliwość składowa tego sygnału.
+Zgodnie z [twierdzeniem o próbkowaniu](https://pl.wikipedia.org/wiki/Twierdzenie_o_pr%C3%B3bkowaniu) (twierdzeniem Nyquista-Shannona),
+sygnał można poprawnie odtworzyć, jeżeli jest próbkowany z częstotliwością co najmniej dwa razy większą niż najwyższa częstotliwość składowa tego sygnału.
+</details>
+
+---
+
+43. Rozdzielczość bitowa przetwornika ADC wpływa na:
+
+    a. zakres dynamiki
+
+    b. szybkość próbkowania
+
+    c. pasmo przenoszenia
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    a. zakres dynamiki
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Rozdzielczość bitowa przetwornika ADC (Analog-to-Digital Converter) określa liczbę dyskretnych poziomów napięcia, na które może być zamieniony sygnał analogowy.
+Wyższa rozdzielczość bitowa oznacza, że przetwornik może rozróżnić więcej poziomów napięcia, co z kolei przekłada się na większy zakres dynamiki.
+Zakres dynamiki to różnica między największym i najmniejszym sygnałem, który przetwornik może dokładnie zmierzyć.
+Większa liczba bitów umożliwia bardziej precyzyjne odwzorowanie sygnałów o niskim poziomie względem najwyższego poziomu sygnału możliwego do przetworzenia.
+
+Zwiększenie rozdzielczości bitowej nie wpływa bezpośrednio na szybkość próbkowania (opcja b) ani na pasmo przenoszenia (opcja c) przetwornika ADC.
+Szybkość próbkowania zależy od częstotliwości zegara przetwornika, a pasmo przenoszenia jest związane z szerokością pasma wejściowego toru analogowego przetwornika.
 </details>
