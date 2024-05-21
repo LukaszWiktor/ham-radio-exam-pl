@@ -1192,7 +1192,7 @@ a. 36%
 <details>
   <summary>Poprawna odpowiedź</summary>
 
-b. 100 W
+    b. 100 W
 </details>
 
 <details> 
@@ -1221,7 +1221,7 @@ Moc $PEP = \frac{U_{sk}^2}{R} = \frac{U_p^2}{2 \times R} = \frac{100^2}{2 \times
 <details>
   <summary>Poprawna odpowiedź</summary>
 
-b. minimum 100 kHz
+    b. minimum 100 kHz
 </details>
 
 <details> 
@@ -1257,4 +1257,58 @@ Większa liczba bitów umożliwia bardziej precyzyjne odwzorowanie sygnałów o 
 
 Zwiększenie rozdzielczości bitowej nie wpływa bezpośrednio na szybkość próbkowania (opcja b) ani na pasmo przenoszenia (opcja c) przetwornika ADC.
 Szybkość próbkowania zależy od częstotliwości zegara przetwornika, a pasmo przenoszenia jest związane z szerokością pasma wejściowego toru analogowego przetwornika.
+</details>
+
+---
+
+44. Transformator sieciowy na napięcie 230V, o sprawności 100 %, dostarcza po stronie wtórnej napięcia 23V przy maksymalnym prądzie 10A.
+Jakiego prądu można się spodziewać po stronie pierwotnej transformatora?
+
+    a. 2 A
+    
+    b. co najmniej 1 A
+    
+    c. 10 A
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    b. co najmniej 1 A
+</details>
+
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+    
+Aby obliczyć prąd po stronie pierwotnej transformatora, możemy wykorzystać równanie bilansu mocy:
+
+P₁ = P₂
+
+gdzie:
+
+P₁ - moc po stronie pierwotnej
+
+P₂ - moc po stronie wtórnej
+
+Moc po stronie wtórnej możemy obliczyć jako:
+
+P₂ = U₂ * I₂
+
+Podstawiając dane:
+
+P₂ = 23V * 10A = 230W
+
+Zakładając 100% sprawność transformatora, moc po stronie pierwotnej będzie równa mocy po stronie wtórnej:
+
+P₁ = P₂ = 230W
+
+Moc po stronie pierwotnej można również zapisać jako:
+
+P₁ = U₁ * I₁
+
+Podstawiając U₁ = 230V i przearanżowując równanie, otrzymujemy:
+
+I₁ = P₁ / U₁ = 230W / 230V = 1A
+
+Zatem przy maksymalnym obciążeniu po stronie wtórnej, prąd po stronie pierwotnej transformatora wyniesie 1A.
 </details>
