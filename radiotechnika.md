@@ -1685,3 +1685,28 @@ Przeważnie w kablach koncentrycznych dielektrykiem jest polietylen jednolity lu
 Jeśli dielektrykiem w kablu koncentrycznym jest jednolity polietylen, to współczynnik skrócenia zawiera się w granicach 0,65 - 0,68.
 W przypadku polietylenu spienionego współczynnik skrócenia zbliża się do jedności.
 </details>
+
+---
+
+58. Jakie znaczenie ma liczba plam słonecznych w odniesieniu do propagacji KF?
+
+    a. wyższa liczba plam słonecznych generalnie wskazuje na większe prawdopodobieństwo dobrej propagacji na wyższych częstotliwościach
+    
+    b. niższa liczba plam słonecznych ogólnie wskazuje na większe prawdopodobieństwo wystąpienia sporadycznej propagacji przez warstwę E.
+    
+    c. zerowa liczba plam słonecznych oznacza, że propagacja radiowa nie jest możliwa w żadnym paśmie
+
+ <details>
+  <summary>Poprawna odpowiedź</summary>
+
+    a. wyższa liczba plam słonecznych generalnie wskazuje na większe prawdopodobieństwo dobrej propagacji na wyższych częstotliwościach
+</details>
+
+<details>
+  <summary>Wyjaśnenie</summary><br>
+
+Plamy słoneczne mają istotny wpływ na propagację fal radiowych, szczególnie w zakresie fal krótkich (KF).
+Wysoka liczba plam słonecznych wskazuje na zwiększoną aktywność słoneczną, co z kolei wpływa na jonizację górnych warstw atmosfery ziemskiej, takich jak jonosfera.
+Wyższy poziom jonizacji poprawia propagację fal radiowych na wyższych częstotliwościach, co umożliwia dalsze i bardziej niezawodne połączenia radiowe.
+</details>
+
