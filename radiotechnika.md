@@ -1794,3 +1794,24 @@ Pomiar współczynnika fali stojącej (SWR) na pełnym zakresie częstotliwości
 
 ---
 
+62. Który parametr ma największy wpływ na dokładność miernika częstotliwości?
+
+    a. dokładność tłumika wejściowego
+
+    b. dokładność generatora wzorcowego
+
+    c. dokładność kalibracji dzielnika częstotliwości
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    b. dokładność generatora wzorcowego
+</details>
+
+<details>
+  <summary>Wyjaśnenie</summary><br>
+
+Miernik częstotliwości działa na zasadzie porównywania mierzonych sygnałów z częstotliwością generowaną przez wewnętrzny generator wzorcowy. 
+Ten generator wzorcowy stanowi punkt odniesienia dla wszystkich pomiarów wykonywanych przez miernik. 
+Jeżeli generator wzorcowy jest niedokładny, to wszystkie pomiary częstotliwości będą również niedokładne, ponieważ błędy w częstotliwości wzorcowej bezpośrednio przekładają się na wynik pomiaru.
+</details>
