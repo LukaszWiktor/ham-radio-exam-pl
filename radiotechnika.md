@@ -1601,3 +1601,30 @@ Odpowiada to częstotliwości podstawowej około 1,83 MHz (164 metry fali radiow
 
 Pasmo 20 metrów (14 MHz) jest bardzo zbliżone do trzeciej harmonicznej dla tej anteny (14,64 MHz), co oznacza, że antena typu delta o długości promiennika 41 metrów będzie dobrze działać w paśmie 20 metrów.
 </details>
+
+---
+
+55. Co stanie się kiedy nasz korespondent w paśmie 70 cm używa anteny o odmiennej polaryzacji niż nasza?
+
+    a. wstęgi boczne modulacji mogą zostać odwrócone
+
+    b. sygnały mogą być znacznie słabsze
+
+    c. słyszymy efekt echa na sygnale
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    b. sygnały mogą być znacznie słabsze
+</details>
+
+
+<details>
+  <summary>Wyjaśnenie</summary><br>
+
+Polaryzacja pozioma (H) vs pionowa (V): Sygnał będzie znacznie tłumiony. W większości przypadków uniemożliwi to odebranie korespondenta, chyba że używa on bardzo mocnej anteny i wzmacniacza.
+
+Polaryzacja kołowa (LH/RH): Sygnał będzie silnie tłumiony, ale w mniejszym stopniu niż w przypadku polaryzacji liniowych. Odbiorca może odebrać słabego korespondenta, ale jakość dźwięku będzie niska.
+</details>
+
+---
