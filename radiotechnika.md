@@ -1849,3 +1849,29 @@ Odpowiedź b. nieużywanie sprzężenia stałoprądowego do pomiarów sygnałów
 
 Odpowiedź c. ustawianie oscyloskopu na możliwie najkrótszą podstawę czasu nie jest najlepszą praktyką w przypadku pomiarów obwodów wielkiej częstotliwości. Krótka podstawa czasu może utrudnić obserwację pełnego przebiegu sygnału i jego właściwości.
 </details>
+
+---
+
+64. Proces, który zachodzi w nieliniowym elemencie lub układzie elektronicznym, kiedy składowe widma sygnału oddziałują na siebie tworząc fałszywe sygnały to:
+
+    a. demodulacja
+
+    b. powielanie
+
+    c. intermodulacja
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    c. intermodulacja
+</details>
+
+<details>
+  <summary>Wyjaśnenie</summary><br>
+
+Intermodulacja to proces, który zachodzi w nieliniowych elementach lub układach elektronicznych, kiedy składowe widma sygnału oddziałują na siebie, tworząc nowe składowe częstotliwościowe, które nie występowały w sygnale wejściowym.\ Te nowo powstałe składowe częstotliwościowe są znane jako produkty intermodulacyjne lub fałszywe sygnały.
+
+Intermodulacja jest niepożądanym efektem w systemach komunikacji radiowej, ponieważ może prowadzić do powstania zakłóceń i zniekształceń sygnału. Występuje ona głównie w elementach nieliniowych, takich jak wzmacniacze czy mieszacze, które nie zachowują się liniowo w odpowiedzi na sygnały wejściowe.
+</details>
+
+---
