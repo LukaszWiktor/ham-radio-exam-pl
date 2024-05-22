@@ -1654,3 +1654,34 @@ Typowe wartości stosunku przód-tył dla dobrze zaprojektowanej anteny Yagi-Uda
 </details>
 
 ---
+
+57. Współczynnik skrócenia kabla koncentrycznego to:
+
+    a. stosunek prędkości rozchodzenia się fali w kablu do prędkości rozchodzenia w próżni
+
+    b. stosunek długości kabla do jego średnicy
+
+    c. parametr charakteryzujący odporność kabla na promieniowanie UV
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    a. stosunek prędkości rozchodzenia się fali w kablu do prędkości rozchodzenia w próżni
+</details>
+
+<details>
+  <summary>Wyjaśnenie</summary><br>
+
+Współczynnik skrócenia to stosunek prędkości rozchodzenia się fali elektromagnetycznej w przewodzie do prędkości rozchodzenia się fali elektromagnetycznej w powietrzu.
+
+$$K = \frac{V_p}{V_o}$$
+
+$V_p$ – prędkość rozchodzenia się fali elektromagnetycznej w przewodzie
+
+$V_o$ – prędkość rozchodzenia się fali elektromagnetycznej w powietrzu
+
+Jeśli w kablu koncentrycznym dielektrykiem byłoby tylko powietrze, to współczynnik skrócenia byłby bliski jedności. 
+Przeważnie w kablach koncentrycznych dielektrykiem jest polietylen jednolity lub polietylen spieniony. 
+Jeśli dielektrykiem w kablu koncentrycznym jest jednolity polietylen, to współczynnik skrócenia zawiera się w granicach 0,65 - 0,68.
+W przypadku polietylenu spienionego współczynnik skrócenia zbliża się do jedności.
+</details>
