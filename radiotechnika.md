@@ -1763,3 +1763,34 @@ Moc wypromieniowana przez antenę to różnicą między mocą padającą a mocą
 
 100 W - 30 W = 70 W
 </details>
+
+---
+
+61. Jaka jest przewaga wektorowego analizatora antenowego (VNA) nad miernikiem SWR (reflektometrem)?
+
+    a. miernik SWR wymaga określonej częstotliwości do działania
+    
+    b. analizator nie potrzebuje dodatkowego zasilania zasilając się z sygnału w.cz z nadajnika
+    
+    c. analizator jest w stanie wykazać składową indukcyjną lub pojemnościową badanej anteny oraz określić miejsce rezonansu
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    c. analizator jest w stanie wykazać składową indukcyjną lub pojemnościową badanej anteny oraz określić miejsce rezonansu
+</details>
+
+<details>
+  <summary>Wyjaśnenie</summary><br>
+
+Główną przewagą wektorowego analizatora antenowego (VNA) nad miernikiem SWR (reflektometrem) jest jego możliwość dostarczenia bardziej szczegółowych informacji na temat charakterystyki badanej anteny.
+Miernik SWR pozwala na pomiar współczynnika fali stojącej (SWR), który jest miarą dopasowania impedancji między anteną a linią transmisyjną na określonej częstotliwości. Jednak nie dostarcza on informacji o charakterze reaktancji anteny (indukcyjnej lub pojemnościowej) ani o dokładnej częstotliwości rezonansowej anteny.
+Z drugiej strony, wektorowy analizator antenowy umożliwia bardziej dogłębną analizę parametrów anteny, w tym:
+
+Wyznaczenie składowej indukcyjnej lub pojemnościowej reaktancji anteny na różnych częstotliwościach.
+Dokładne określenie częstotliwości rezonansowej anteny, na której jej impedancja jest czysto rezystywna.
+Pomiar współczynnika fali stojącej (SWR) na pełnym zakresie częstotliwości.
+</details>
+
+---
+
