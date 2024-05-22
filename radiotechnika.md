@@ -1710,3 +1710,32 @@ Wysoka liczba plam słonecznych wskazuje na zwiększoną aktywność słoneczną
 Wyższy poziom jonizacji poprawia propagację fal radiowych na wyższych częstotliwościach, co umożliwia dalsze i bardziej niezawodne połączenia radiowe.
 </details>
 
+---
+
+59. Co oznacza skrót MUF?
+
+    a. minimalna użyteczna częstotliwość dla komunikacji między dwoma punktami
+
+    b. maksymalna użyteczna częstotliwość do komunikacji między dwoma punktami
+
+    c. minimalna użyteczna częstotliwość na następne 24 godziny
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    b. maksymalna użyteczna częstotliwość do komunikacji między dwoma punktami
+</details>
+
+<details>
+  <summary>Wyjaśnenie</summary><br>
+
+MUF to skrót od angielskiego terminu "Maximum Usable Frequency", co oznacza maksymalną użyteczną częstotliwość w radiokomunikacji falami krótkimi.
+
+Maksymalna użyteczna częstotliwość określa najwyższą częstotliwość fali radiowej, przy której jest jeszcze możliwe uzyskanie odbioru sygnału na danej trasie, przy danych warunkach propagacyjnych w jonosferze.
+
+Powyżej MUF fale radiowe nie są odbijane od jonosfery i trafiają w przestrzeń kosmiczną, zamiast docierać do odbiorcy. MUF zależy od pory dnia, aktywności słonecznej, długości trasy oraz kąta padania fali na jonospferę.
+
+Znajomość MUF jest ważna przy wyborze odpowiedniej częstotliwości pracy dla łączności falami krótkimi, aby zapewnić jak najlepszą propagację sygnału na danej trasie.
+</details>
+
+---
