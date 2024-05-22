@@ -1574,3 +1574,30 @@ Silny sygnał z pobliskiej rozgłośni radiowej, działającej prawdopodobnie na
 
 Szumy fazowe oscylatora lokalnego wprowadzają dodatkowy szum do sygnału pośredniego, co skutkuje pogorszeniem stosunku sygnału do szumu w odbiorniku.
 </details>    
+
+---
+
+54. Czy antena typu delta, o długości promiennika ~41 m będzie poprawnie działała w paśmie 20m?
+  
+    a. nie, to jest antena jednopasmowa
+    
+    b. tak, antena typu delta stroi się na kolejnych harmonicznych
+    
+    c. tak, ale tylko jako odbiorcza
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    b. tak, antena typu delta stroi się na kolejnych harmonicznych
+</details>
+
+
+<details>
+  <summary>Wyjaśnienie</summary>
+
+Antena typu delta, jak większość anten pętlowych, jest w stanie rezonować na różnych harmonicznych swojej częstotliwości podstawowej.
+Jeśli długość promiennika anteny delta wynosi około 41 metrów, to długość fali podstawowej dla tej anteny będzie wynosiła około 164 metrów (cztery razy długość promiennika, ponieważ pełna fala to cztery promienniki).
+Odpowiada to częstotliwości podstawowej około 1,83 MHz (164 metry fali radiowej). Jednakże antena delta będzie również rezonować na wyższych harmonicznych tej podstawowej częstotliwości, takich jak 3,66 MHz, 7,32 MHz, 14,64 MHz i tak dalej.
+
+Pasmo 20 metrów (14 MHz) jest bardzo zbliżone do trzeciej harmonicznej dla tej anteny (14,64 MHz), co oznacza, że antena typu delta o długości promiennika 41 metrów będzie dobrze działać w paśmie 20 metrów.
+</details>
