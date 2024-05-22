@@ -1526,3 +1526,31 @@ Współczynnik dyskryminacji określa zdolność odbiornika do rozróżniania mi
 
 Czułość odbiornika to jego zdolność do odbioru słabych sygnałów.
 </details>
+
+---
+
+52. Pewien ręczny radiotelefon VHF/UHF pozbawiony jest filtrów pasmowych w torze wejściowym.
+Podczas aktywacji jednego ze szczytów w ramach programu SOTA okazało się, że nie można odebrać sygnałów korespondentów, pomimo wykorzystania dobrej anteny dookólnej.
+Czym może być spowodowane to zjawisko?
+
+    a. rozpraszaniem sygnału na śladach jonizacyjnych meteorów (meteor scatter)
+    
+    b. zmniejszeniem czułości odbiornika przez mocny sygnał nadajnika rozgłośni radiowej na sąsiedniej górze
+    
+    c. silnymi podmuchami wiatru
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    b. zmniejszeniem czułości odbiornika przez mocny sygnał nadajnika rozgłośni radiowej na sąsiedniej górze
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+    
+Brak filtrów pasmowych w torze wejściowym radiotelefonu oznacza, że jest on podatny na zakłócenia z sygnałów spoza pasma VHF/UHF.
+
+Silny sygnał z pobliskiej rozgłośni radiowej, działającej prawdopodobnie na częstotliwości sąsiadującej z pasmem VHF/UHF, może przeniknąć do toru odbiorczego i spowodować jego przesterowanie lub zablokowanie, uniemożliwiając w ten sposób odbiór słabszych sygnałów korespondentów.
+</details>
+
+---
