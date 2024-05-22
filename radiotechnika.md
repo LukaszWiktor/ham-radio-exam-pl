@@ -1628,3 +1628,29 @@ Polaryzacja kołowa (LH/RH): Sygnał będzie silnie tłumiony, ale w mniejszym s
 </details>
 
 ---
+
+56. Co oznacza pojęcie „stosunek przód-tył” w odniesieniu do anteny Yagi-Uda?
+
+    a. stosunek liczby direktorów do reflektorów
+
+    b. stosunek mocy wypromieniowanej w kierunku głównego listka promieniowania do kierunku przeciwnego
+
+    c. stosunek mocy wypromieniowanej w przód anteny do dipola półfalowego
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    b. stosunek mocy wypromieniowanej w kierunku głównego listka promieniowania do kierunku przeciwnego
+</details>
+
+<details>
+  <summary>Wyjaśnenie</summary><br>
+
+Antena Yagi-Uda jest anteną kierunkową, co oznacza, że promieniuje bardziej efektywnie w jednym kierunku (przód anteny) niż w przeciwnym (tył anteny).
+Stosunek przód-tył określa ile razy więcej energii jest wypromieniowanej w kierunku głównego listka promieniowania w porównaniu do kierunku przeciwnego.
+
+Wysoki stosunek przód-tył jest pożądany, ponieważ minimalizuje zakłócenia z tyłu anteny i zapewnia bardziej skoncentrowany sygnał w kierunku użytecznym.
+Typowe wartości stosunku przód-tył dla dobrze zaprojektowanej anteny Yagi-Uda mieszczą się w zakresie 10-25 dB.
+</details>
+
+---
