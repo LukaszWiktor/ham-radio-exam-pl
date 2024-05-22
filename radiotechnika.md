@@ -1815,3 +1815,37 @@ Miernik częstotliwości działa na zasadzie porównywania mierzonych sygnałów
 Ten generator wzorcowy stanowi punkt odniesienia dla wszystkich pomiarów wykonywanych przez miernik. 
 Jeżeli generator wzorcowy jest niedokładny, to wszystkie pomiary częstotliwości będą również niedokładne, ponieważ błędy w częstotliwości wzorcowej bezpośrednio przekładają się na wynik pomiaru.
 </details>
+
+---
+
+63. Co jest dobrą praktyką przy pomiarach obwodów wielkiej częstotliwości za pomocą oscyloskopu?
+
+    a. utrzymanie jak najkrótszego połączenia uziemienia sondy
+
+    b. nieużywanie sprzężenia stałoprądowego do pomiarów sygnałów przemiennych
+
+    c. ustawianie oscyloskopu na możliwie najkrótszą podstawę czasu
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    a. utrzymanie jak najkrótszego połączenia uziemienia sondy
+</details>
+
+<details>
+  <summary>Wyjaśnenie</summary><br>
+
+Przy pomiarach obwodów wielkiej częstotliwości za pomocą oscyloskopu, dobrą praktyką jest utrzymanie jak najkrótszego połączenia uziemienia sondy. Długie połączenia uziemienia mogą powodować problemy, takie jak:
+
+Indukcyjność pętli uziemienia - długie przewody uziemienia tworzą pętlę, która może wychwytywać niepożądane sygnały elektromagnetyczne, wprowadzając zakłócenia do pomiaru.
+
+Pojemność pasożytnicza - długie przewody uziemienia mają większą pojemność, co może wpływać na kształt sygnału, zwłaszcza w przypadku sygnałów o wysokich częstotliwościach.
+
+Efekty falowe - w długich przewodach uziemienia mogą występować efekty falowe, które zniekształcają sygnał pomiarowy.
+
+Krótkie połączenie uziemienia sondy minimalizuje te problemy, zapewniając dokładniejszy i bardziej wierny pomiar sygnałów o wysokich częstotliwościach.
+
+Odpowiedź b. nieużywanie sprzężenia stałoprądowego do pomiarów sygnałów przemiennych jest również poprawna, ponieważ tryb sprzężenia stałoprądowego (DC) może spowodować zniekształcenie i przesunięcie składowej stałej sygnału przemiennego.
+
+Odpowiedź c. ustawianie oscyloskopu na możliwie najkrótszą podstawę czasu nie jest najlepszą praktyką w przypadku pomiarów obwodów wielkiej częstotliwości. Krótka podstawa czasu może utrudnić obserwację pełnego przebiegu sygnału i jego właściwości.
+</details>
