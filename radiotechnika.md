@@ -1554,3 +1554,23 @@ Silny sygnał z pobliskiej rozgłośni radiowej, działającej prawdopodobnie na
 </details>
 
 ---
+
+53. W odbiorniku superheterodynowym szumy fazowe oscylatora lokalnego mają wpływ na:
+
+    a. pogorszenie stosunku sygnału do szumu
+
+    b. pływanie odbieranego sygnału telegraficznego
+
+    c. zmniejszenie sygnału audio
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    a. pogorszenie stosunku sygnału do szumu
+</details>
+
+<details> 
+    <summary>Wyjaśnienie</summary><br>
+
+Szumy fazowe oscylatora lokalnego wprowadzają dodatkowy szum do sygnału pośredniego, co skutkuje pogorszeniem stosunku sygnału do szumu w odbiorniku.
+</details>    
