@@ -1739,3 +1739,27 @@ Znajomość MUF jest ważna przy wyborze odpowiedniej częstotliwości pracy dla
 </details>
 
 ---
+
+60. Ile mocy zostaje wypromieniowane przez antenę, jeśli miernik mocy podłączony pomiędzy nadajnik a antenę wskazuje 100 W mocy padającej i 30 W mocy odbitej?
+
+    a. 130 W
+
+    b. 70 W
+
+    c. 30 W
+
+<details>
+  <summary>Poprawna odpowiedź</summary>
+
+    b. 70 W
+</details>
+
+<details>
+  <summary>Wyjaśnenie</summary><br>
+
+Moc padająca to moc, która jest dostarczana do anteny od nadajnika. Część tej mocy jest promieniowana przez antenę w postaci fal elektromagnetycznych, a część jest odbita z powrotem do linii transmisyjnej łączącej antenę z nadajnikiem.
+
+Moc wypromieniowana przez antenę to różnicą między mocą padającą a mocą odbitą.
+
+100 W - 30 W = 70 W
+</details>
