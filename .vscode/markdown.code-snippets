@@ -1,0 +1,24 @@
+{
+	"poprawna odpwowiedź": {
+		"scope": "markdown",
+		"prefix": "po",
+		"body": [
+			"<details>",
+			"  <summary>Poprawna odpowiedź</summary>",
+			"",
+			"    $0",
+			"</details>"
+		]
+	},
+	"wyjaśnienie": {
+		"scope": "markdown",
+		"prefix": "wy",
+		"body": [
+			"<details>",
+			"  <summary>Wyjaśnenie</summary><br>",
+			"",
+			"    $0",
+			"</details>"
+		]
+	}
+}
